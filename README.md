@@ -11,6 +11,10 @@ You can then use the include python script to download and store all of the imag
 
 Enjoy!
 
+## 💹 Dependencies
+
+- **screenshot-basic**
+
 ## Instructions
 
 ### Vehicle Image Creator
