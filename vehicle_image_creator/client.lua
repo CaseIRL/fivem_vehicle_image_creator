@@ -170,7 +170,7 @@ local vehicles = {
 }
 
 --- Your webhook to send screenshots to
-local screenshot_webhook = 'https://discord.com/api/webhooks/1251087577578999931/UJ8tiz44CcB-FxW97p1k7w2fkpQrpTMGM0SUYzvhmT_NjBuaQiLBwJSfEz35_JnBlqeq'
+local screenshot_webhook = 'ADD YOUR WEBHOOK HERE'
 
 --- Environment
 local weather = 'EXTRASUNNY' -- Weather type whilst spawning vehicles
