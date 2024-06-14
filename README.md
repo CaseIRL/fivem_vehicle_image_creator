@@ -21,7 +21,7 @@ Enjoy!
 4. Use the command `/capture_vehicles` to screenshot and spawn all vehicles in table. Use `/capture_vehicles compacts` to capture a specific category.
 
 - Using the command will spawn vehicles one by one at the location of your choosing, create the cam, screenshot and save details to a json file.
-- Once you have caputures all the vehicles you want images for download the `image_urls.json` from your server and proceed with the steps under **Download Images**
+- Once you have captured all the vehicles you want images for, download the `image_urls.json` from your server and proceed with the steps under **Download Images**
 
 ### Download Images
 
